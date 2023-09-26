@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  omikuji_swift
+//  sample_department_store_clone
 //
-//  Created by Takuma Naito on 2023/09/25.
+//  Created by Takuma Naito on 2023/09/20.
 //
 
 import UIKit
